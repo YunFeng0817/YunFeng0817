@@ -12,4 +12,4 @@
 
 <br/>
 
-<a href="https://githubtrends.io"><img align="left" width="35%" src="https://api.githubtrends.io/user/svg/Mark-Fenng/repos?time_range=one_year&theme=classic" /></a><a href="https://githubtrends.io"><img align="center" width="35%" src="https://api.githubtrends.io/user/svg/Mark-Fenng/langs?time_range=one_year&theme=classic" /></a>
+<a href="https://githubtrends.io/wrapped/Mark-Fenng"><img align="left" width="35%" src="https://api.githubtrends.io/user/svg/Mark-Fenng/repos?time_range=one_year&theme=classic" /></a><a href="https://githubtrends.io/wrapped/Mark-Fenng"><img align="center" width="35%" src="https://api.githubtrends.io/user/svg/Mark-Fenng/langs?time_range=one_year&theme=classic" /></a>
